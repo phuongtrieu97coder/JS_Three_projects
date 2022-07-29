@@ -21,6 +21,9 @@
 
 ### b.IDE,Software:
 
+![image](https://user-images.githubusercontent.com/82598726/181838070-6e91922c-b57e-4e5c-a354-4a8baf47173c.png)
+![image](https://user-images.githubusercontent.com/82598726/181838098-d3cef495-29dd-4082-a2b4-2260c4ab7cac.png)
+![image](https://user-images.githubusercontent.com/82598726/181838148-b6c4db6f-7825-4d80-aabb-4fc32a4f450c.png)
 ![image](https://user-images.githubusercontent.com/82598726/181828247-0a180433-7628-45d0-91fc-c653225c57aa.png) ![image](https://user-images.githubusercontent.com/82598726/181828341-f2d35c6d-863e-4f1c-af84-a9ebc1e33d58.png) ![image](https://user-images.githubusercontent.com/82598726/181830045-2769b49a-2b5a-43ad-b519-5ae02d5b736a.png) ![image](https://user-images.githubusercontent.com/82598726/181828759-13c51469-e35d-44d6-af61-dfff064b7536.png)
  ![image](https://user-images.githubusercontent.com/82598726/181828437-03bf1b40-f35c-4e48-8ebd-127ef3a6f49d.png) ![image](https://user-images.githubusercontent.com/82598726/181835143-0f7aa21a-1081-4df5-954e-6e89259d21e7.png)
 
