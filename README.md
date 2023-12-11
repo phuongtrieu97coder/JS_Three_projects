@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/82598726/181837298-df497bbe-66b8-4a23-91af-16989aebeb36.png) ![image](https://user-images.githubusercontent.com/82598726/181837732-b12591e8-a89c-40a7-a0dc-311215941336.png)
 
-
+# JavaScript Three Projects
 
 # 1.Purpose:
 
@@ -37,5 +37,27 @@
 # 3. License:
 
 ![image](https://github.com/phuongtrieu97coder/JS_Three_projects/assets/82598726/82873d10-4f7c-423c-a0ad-e1a4544a7454)
+
+MIT License
+
+Copyright (c) 2023 Phuong Trieu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
